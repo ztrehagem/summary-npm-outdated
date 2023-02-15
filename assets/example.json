@@ -1,0 +1,155 @@
+{
+  "@hookform/resolvers": {
+    "current": "2.9.10",
+    "wanted": "2.9.11",
+    "latest": "2.9.11",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/@hookform/resolvers",
+    "type": "dependencies",
+    "homepage": "https://react-hook-form.com"
+  },
+  "@types/node": {
+    "current": "18.11.18",
+    "wanted": "18.13.0",
+    "latest": "18.13.0",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/@types/node",
+    "type": "dependencies",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node"
+  },
+  "@types/react": {
+    "current": "18.0.27",
+    "wanted": "18.0.28",
+    "latest": "18.0.28",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/@types/react",
+    "type": "devDependencies",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react"
+  },
+  "@typescript-eslint/eslint-plugin": {
+    "current": "5.49.0",
+    "wanted": "5.52.0",
+    "latest": "5.52.0",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/@typescript-eslint/eslint-plugin",
+    "type": "devDependencies",
+    "homepage": "https://github.com/typescript-eslint/typescript-eslint#readme"
+  },
+  "@typescript-eslint/parser": {
+    "current": "5.49.0",
+    "wanted": "5.52.0",
+    "latest": "5.52.0",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/@typescript-eslint/parser",
+    "type": "devDependencies",
+    "homepage": "https://github.com/typescript-eslint/typescript-eslint#readme"
+  },
+  "@vanilla-extract/css": {
+    "current": "1.9.3",
+    "wanted": "1.9.5",
+    "latest": "1.9.5",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/@vanilla-extract/css",
+    "type": "dependencies",
+    "homepage": "https://github.com/vanilla-extract-css/vanilla-extract#readme"
+  },
+  "@vanilla-extract/vite-plugin": {
+    "current": "3.7.1",
+    "wanted": "3.8.0",
+    "latest": "3.8.0",
+    "dependent": "workspace3",
+    "location": "/path/to/node_modules/@vanilla-extract/vite-plugin",
+    "type": "dependencies",
+    "homepage": "https://github.com/vanilla-extract-css/vanilla-extract#readme"
+  },
+  "@vitejs/plugin-legacy": {
+    "current": "3.0.2",
+    "wanted": "3.0.2",
+    "latest": "4.0.1",
+    "dependent": "workspace3",
+    "location": "/path/to/node_modules/@vitejs/plugin-legacy",
+    "type": "dependencies",
+    "homepage": "https://github.com/vitejs/vite/tree/main/packages/plugin-legacy#readme"
+  },
+  "@vitejs/plugin-react": {
+    "current": "3.0.1",
+    "wanted": "3.1.0",
+    "latest": "3.1.0",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/@vitejs/plugin-react",
+    "type": "dependencies",
+    "homepage": "https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#readme"
+  },
+  "eslint": {
+    "current": "8.33.0",
+    "wanted": "8.34.0",
+    "latest": "8.34.0",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/eslint",
+    "type": "devDependencies",
+    "homepage": "https://eslint.org"
+  },
+  "prettier": {
+    "current": "2.8.3",
+    "wanted": "2.8.4",
+    "latest": "2.8.4",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/prettier",
+    "type": "devDependencies",
+    "homepage": "https://prettier.io"
+  },
+  "react-hook-form": {
+    "current": "7.43.0",
+    "wanted": "7.43.1",
+    "latest": "7.43.1",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/react-hook-form",
+    "type": "dependencies",
+    "homepage": "https://www.react-hook-form.com"
+  },
+  "react-router-dom": {
+    "current": "6.8.0",
+    "wanted": "6.8.1",
+    "latest": "6.8.1",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/react-router-dom",
+    "type": "dependencies",
+    "homepage": "https://github.com/remix-run/react-router#readme"
+  },
+  "typescript": {
+    "current": "4.9.4",
+    "wanted": "4.9.5",
+    "latest": "4.9.5",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/typescript",
+    "type": "dependencies",
+    "homepage": "https://www.typescriptlang.org/"
+  },
+  "vite": {
+    "current": "4.0.4",
+    "wanted": "4.1.1",
+    "latest": "4.1.1",
+    "dependent": "workspace2",
+    "location": "/path/to/node_modules/vite",
+    "type": "dependencies",
+    "homepage": "https://github.com/vitejs/vite/tree/main/#readme"
+  },
+  "vitest": {
+    "current": "0.28.3",
+    "wanted": "0.28.5",
+    "latest": "0.28.5",
+    "dependent": "workspace1",
+    "location": "/path/to/node_modules/vitest",
+    "type": "devDependencies",
+    "homepage": "https://github.com/vitest-dev/vitest#readme"
+  },
+  "zod": {
+    "current": "3.20.2",
+    "wanted": "3.20.6",
+    "latest": "3.20.6",
+    "dependent": "workspace3",
+    "location": "/path/to/node_modules/zod",
+    "type": "dependencies",
+    "homepage": "https://zod.dev"
+  }
+}
