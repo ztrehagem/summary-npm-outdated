@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 
-import { summarize } from "../lib/main.js";
+import { format, summarize } from "../lib/main.js";
 
 const readStdin = () => {
   return new Promise((resolve, reject) => {
@@ -24,5 +24,6 @@ const readStdin = () => {
   const json = await readStdin();
   const obj = JSON.parse(json);
   const summary = summarize(obj);
-  console.log(JSON.stringify(summary, null, 2));
+  const text = format(summary);
+  console.log(text);
 })();

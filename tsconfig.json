@@ -6,6 +6,7 @@
     "rootDir": "./src/",
     "moduleResolution": "node16",
     "outDir": "./lib/",
+    "declaration": true,
     "isolatedModules": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
